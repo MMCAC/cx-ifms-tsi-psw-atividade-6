@@ -1,0 +1,4 @@
+br\edu\ifms\exjpa\Filme.class
+br\edu\ifms\exjpa\FilmeResource.class
+br\edu\ifms\exjpa\FilmeController.class
+br\edu\ifms\exjpa\ExjpaApplication.class
